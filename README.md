@@ -10,7 +10,7 @@ This project evaluates and compares the performance of several supervised learni
 
 ## Datasets
 1.  **Telco Customer Churn:** A mixed-type dataset with 7,043 entries focused on predicting customer retention using demographic and service-related features.
-2.  **Credit Card Fraud Detection:** A highly imbalanced dataset (0.17% fraud) consisting of PCA-transformed features ($V1$-$V28$), $Time$, and $Amount$.
+2.  **Credit Card Fraud Detection ( this one is super large so make sure to download it from kaggle not here; git will ignore it ):** A highly imbalanced dataset (0.17% fraud) consisting of PCA-transformed features (V1-V28), Time, and Amount.
 
 ## Implemented Models
 ### 1. Telco Customer Churn (Mixed Data)
